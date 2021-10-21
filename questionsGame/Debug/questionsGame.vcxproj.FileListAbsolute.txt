@@ -1,0 +1,2 @@
+C:\Users\Annie\source\repos\questionsGame\Debug\questionsGame.exe
+C:\Users\Annie\source\repos\questionsGame\Debug\questionsGame.pdb
